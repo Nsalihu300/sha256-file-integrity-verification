@@ -67,7 +67,7 @@ cat secure_test.txt
 
 ### Screenshot
 
-![Creating the test file](screenshots/file_creation.png)
+![Creating the test file](screenshots/file_creation.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ Output
 
 ### Screenshot
 
-![Baseline Hash](screenshots/baseline_hash.png)
+![Baseline Hash](screenshotsbaseline_hash.jpg)
 
 ---
 
@@ -101,7 +101,7 @@ nano secure_test.txt
 
 ### Screenshot
 
-![File Modification](screenshots/file_modification.png)
+![File Modification](screenshots/file_modification.jpg)
 
 ---
 
@@ -123,7 +123,7 @@ The new hash differed completely from the original baseline, confirming that the
 
 ### Screenshot
 
-![Hash Comparison](screenshots/hash_comparison.png)
+![Hash Comparison](screenshots/hash_comparison.PNG)
 
 ---
 
