@@ -84,10 +84,9 @@ Output
 ```text
 323e286d849e9564d0230a21f178219868ef6bcc05fb398d875c29fa06ee9c4b
 ```
-
 ### Screenshot
 
-![Baseline Hash](screenshotsbaseline_hash.jpg)
+![Baseline Hash](screenshots/baseline_hash.png)
 
 ---
 
