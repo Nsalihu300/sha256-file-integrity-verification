@@ -86,7 +86,7 @@ Output
 ```
 ### Screenshot
 
-![Baseline Hash](screenshots/baseline_hash.png)
+![Baseline Hash](screenshots/baseline_hash.jpg)
 
 ---
 
