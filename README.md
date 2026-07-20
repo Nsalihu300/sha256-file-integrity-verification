@@ -1,5 +1,4 @@
 # sha256-file-integrity-verification
-# SHA-256 File Integrity Verification
 
 > Detecting unauthorized file modification using SHA-256 cryptographic hashing on Kali Linux.
 
