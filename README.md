@@ -65,7 +65,9 @@ nano secure_test.txt
 cat secure_test.txt
 ```
 
-**Screenshot:** `screenshots/file_creation.png`
+### Screenshot
+
+![Creating the test file](screenshots/file_creation.png)
 
 ---
 
@@ -83,7 +85,9 @@ Output
 323e286d849e9564d0230a21f178219868ef6bcc05fb398d875c29fa06ee9c4b
 ```
 
-**Screenshot:** `screenshots/baseline_hash.png`
+### Screenshot
+
+![Baseline Hash](screenshots/baseline_hash.png)
 
 ---
 
@@ -95,7 +99,9 @@ The file was intentionally modified by adding additional content to simulate una
 nano secure_test.txt
 ```
 
-**Screenshot:** `screenshots/file_modification.png`
+### Screenshot
+
+![File Modification](screenshots/file_modification.png)
 
 ---
 
@@ -115,7 +121,9 @@ b02724af6e32b69ae74f0ad9933d1752233a4cf7e724c332f00bbad50e16918d
 
 The new hash differed completely from the original baseline, confirming that the file had been altered.
 
-**Screenshot:** `screenshots/hash_comparison.png`
+### Screenshot
+
+![Hash Comparison](screenshots/hash_comparison.png)
 
 ---
 
